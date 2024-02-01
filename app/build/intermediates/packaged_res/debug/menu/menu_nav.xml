@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/nav_home"
+            android:title="Links"
+            android:icon="@drawable/ic_link_icon_foreground"/>
+        <item android:id="@+id/nav_profile"
+            android:title="Courses"
+            android:icon="@drawable/ic_book"/>
+        <item android:id="@+id/nav_add"
+            android:title=""
+
+            android:icon="@drawable/ic_add_icon_foreground"/>
+
+        <item android:id="@+id/nav_users"
+            android:title="Campaigns"
+            android:icon="@drawable/ic_campaign"/>
+        <item android:id="@+id/nav_chat"
+            android:title="Profile"
+            android:icon="@drawable/ic_outline_person"/>
+</menu>
